@@ -1,0 +1,1 @@
+# rofi-config-v1
